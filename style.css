@@ -1,0 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#fundo_menu{
+    background-image: url(imagens/hhh.png);
+    height: 970px;
+    width: 100%;
+    background-size: 100% 100%;
+    overflow:hidden
+}
