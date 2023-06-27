@@ -1,0 +1,37 @@
+*{
+    font: normal 18pt arial;
+    padding: 0;
+    margin: 0;
+
+}
+
+header h1{
+    
+}
+
+header {
+    width: 100%;
+    background-color: rgb(0, 129, 0);
+    padding: 0px;
+    font-size:  30px;
+    text-align: center;
+    height: 80px;
+    justify-content: baseline;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 0 100px;
+}
+
+#txtprin {
+    font-size: 40px;
+}
+
+.menu {
+    margin: 300px 350px 0 350px;
+}
+
+.btn p {
+    text-align: center;
+}
